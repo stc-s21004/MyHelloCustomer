@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">第10回 提出課題</string>
+    <string name="tv_locate">住まい</string>
+    <string name="tv_name">お名前</string>
+    <string name="bt_show">表示</string>
+    <string name="bt_clear_locate">住まいクリア</string>
+    <string name="bt_clear_name">お名前クリア</string>
+</resources>
